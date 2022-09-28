@@ -1,7 +1,3 @@
-# Awesome-Embodied-AI
-Everything about Embodied AI.
-
-
 # Embodied AI (具身智能) ![](https://visitor-badge.glitch.me/badge?page_id=putao537.Awesome-Embodied-AI)
 
 <h4 align="center">Everything about Embodied AI.</h4>
