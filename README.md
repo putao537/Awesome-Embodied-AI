@@ -55,23 +55,57 @@
 <details>
   <summary> REVERIE </summary>  
   
-  From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments", CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151).  
+  From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments" (CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151)).  
   
   **REVERIE** requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
   
 </details>
 
-[REVERIE](https://arxiv.org/abs/1904.10151) - requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
+<details>
+  <summary> TOUCHDOWN </summary>  
+  
+  From "TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments" (CVPR 2019, [PDF](https://arxiv.org/abs/1811.12354)).  
+  
+  **TOUCHDOWN** requires an agent to first follow navigation instructions in a real-life visual urban environment, and then identify a location described in natural language to find a hidden object at the goal position.
+  
+</details>
 
-[VLN](https://arxiv.org/abs/1711.07280) - requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.
+<details>
+  <summary> VNLA </summary>  
+  
+  From "Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention" (CVPR 2019, [PDF](https://arxiv.org/abs/1812.04155)).  
+  
+  **VNLA** requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.   
+  
+</details>
 
-[VNLA](https://arxiv.org/abs/1812.04155) - a grounded vision-language task where an agent with visual perception is guided via language to find objects in photorealistic indoor environments.
+<details>
+  <summary> VLN </summary>  
+  
+  From "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments" (CVPR 2018, [PDF](https://arxiv.org/abs/1711.07280)).  
+  
+  **VLN** requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  
+  
+</details>
 
-[EQA](https://arxiv.org/abs/1711.11543) - an agent is spawned at a random location in a 3D environment and asked a question. The agent must first intelligently navigate to explore the environment, gather necessary visual information through first-person (egocentric) vision, and then answer the question.
+<details>
+  <summary> IQA </summary>  
+  
+  From "IQA: Visual Question Answering in Interactive Environments" (CVPR 2018, [PDF](https://arxiv.org/abs/1712.03316)).  
+  
+  **IQA** puts an intelligent agent at random location in a 3D environment and asked a question. This task requires an agent to navigate around the scene, acquire visual understanding of scene elements, interact with objects (e.g. open refrigerators) and plan for a series of actions conditioned on the question.
+  
+</details>
 
-[IQA](https://arxiv.org/abs/1712.03316) - requires an agent to navigate around the scene, acquire visual understanding of scene elements, interact with objects (e.g. open refrigerators) and plan for a series of actions conditioned on the question.
+<details>
+  <summary> EQA </summary>  
+  
+  From "Embodied Question Answering" (CVPR 2018, [PDF](https://arxiv.org/abs/1711.11543)).  
+  
+  **EQA** puts an intelligent agent at random location in a 3D environment and asked a question. The agent must first intelligently navigate to explore the environment, gather necessary visual information through first-person (egocentric) vision, and then answer the question.  
+  
+</details>
 
-[TOUCHDOWN](https://arxiv.org/abs/1811.12354) - requires an agent to first follow navigation instructions in a real-life visual urban environment, and then identify a location described in natural language to find a hidden object at the goal position.
 
 <h2 id="4">4. Simulators</h2>
 
