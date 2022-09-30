@@ -53,8 +53,8 @@
 <h2 id="3">3. Tasks</h2>
 
 <details>
-  <summary> REVERIE </summary>
-  From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments", CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151).
+  <summary> REVERIE </summary>  
+  From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments", CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151).  
   REVERIE requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
 </details>
 
