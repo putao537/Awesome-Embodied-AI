@@ -7,12 +7,14 @@
   <strong><a href="#1">Tutorials</a></strong> •
   <strong><a href="#2">Workshops</a></strong> •
   <strong><a href="#3">Talks</a></strong> •
+  <strong><a href="#4">Scholars</a></strong>
 </p>
 
 <p align="center">
-  <strong><a href="#4">Tasks</a></strong> •
-  <strong><a href="#5">Simulators</a></strong> •
-  <strong><a href="#6">Datasets</a></strong>
+  <strong><a href="#5">Surveys</a></strong> •
+  <strong><a href="#6">Tasks</a></strong> •
+  <strong><a href="#7">Simulators</a></strong> •
+  <strong><a href="#8">Datasets & Benchmarks</a></strong>
 </p>
 
 
@@ -67,7 +69,31 @@
 </details>
 
 
-<h2 id="4">4. Tasks</h2>
+<h2 id="4">4. Scholars</h2>
+
+<details>
+  <summary> xxx </summary>
+  
+  ### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+
+</details>
+
+
+<h2 id="5">5. Surveys</h2>
+
+<details>
+  <summary> REVERIE </summary>  
+  
+  From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments" (CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151)).  
+  
+  **REVERIE** requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
+  
+</details>
+
+<h2 id="6">6. Tasks</h2>
 
 <details>
   <summary> REVERIE </summary>  
@@ -124,7 +150,7 @@
 </details>
 
 
-<h2 id="5">5. Simulators</h2>
+<h2 id="7">7. Simulators</h2>
 
 <details>
   <summary> xxx </summary>
@@ -137,7 +163,7 @@
 </details>
 
 
-<h2 id="6">6. Datasets</h2>
+<h2 id="8">8. Datasets & Benchmarks</h2>
 
 <details>
   <summary> xxx </summary>
