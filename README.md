@@ -39,7 +39,7 @@
   ### 2022
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+| **CVPR** | Building and Working in Environments for Embodied AI | [HomePage](https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/) |
 
 </details>
 
