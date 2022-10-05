@@ -78,8 +78,6 @@
 
 <h2 id="5">5. Surveys</h2>
 
-IEEE Transactions on Emerging Topics in Computational Intelligence
-
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **T-ETCI'22* | A Survey of Embodied AI: From Simulators to Research Tasks | [PDF]([xxx](https://arxiv.org/abs/2103.04918)) |
