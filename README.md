@@ -5,11 +5,16 @@
 <p align="center">
   <strong><a href="#0">Papers</a></strong> •
   <strong><a href="#1">Tutorials</a></strong> •
-  <strong><a href="#2">Talks</a></strong> •
-  <strong><a href="#3">Tasks</a></strong> •
-  <strong><a href="#4">Simulators</a></strong> •
-  <strong><a href="#5">Datasets</a></strong>
+  <strong><a href="#2">Workshops</a></strong> •
+  <strong><a href="#3">Talks</a></strong> •
 </p>
+
+<p align="center">
+  <strong><a href="#4">Tasks</a></strong> •
+  <strong><a href="#5">Simulators</a></strong> •
+  <strong><a href="#6">Datasets</a></strong>
+</p>
+
 
 <h2 id="0">0. Papers</h2>
 
@@ -37,7 +42,19 @@
 </details>
 
 
-<h2 id="2">2. Talks</h2>
+<h2 id="2">2. Workshops</h2>
+
+<details>
+  <summary> xxx </summary>
+  
+  ### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+
+</details>
+
+<h2 id="3">3. Talks</h2>
 
 <details>
   <summary> xxx </summary>
@@ -50,7 +67,7 @@
 </details>
 
 
-<h2 id="3">3. Tasks</h2>
+<h2 id="4">4. Tasks</h2>
 
 <details>
   <summary> REVERIE </summary>  
@@ -107,7 +124,7 @@
 </details>
 
 
-<h2 id="4">4. Simulators</h2>
+<h2 id="5">5. Simulators</h2>
 
 <details>
   <summary> xxx </summary>
@@ -120,7 +137,7 @@
 </details>
 
 
-<h2 id="5">5. Datasets</h2>
+<h2 id="6">6. Datasets</h2>
 
 <details>
   <summary> xxx </summary>
