@@ -78,14 +78,12 @@
 
 <h2 id="5">5. Surveys</h2>
 
-<details>
-  <summary> REVERIE </summary>  
-  
-  From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments" (CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151)).  
-  
-  **REVERIE** requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
-  
-</details>
+IEEE Transactions on Emerging Topics in Computational Intelligence
+
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **T-ETCI'22* | A Survey of Embodied AI: From Simulators to Research Tasks | [PDF]([xxx](https://arxiv.org/abs/2103.04918)) |
+
 
 <h2 id="6">6. Tasks</h2>
 
