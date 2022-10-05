@@ -33,15 +33,9 @@
 
 <h2 id="1">1. Tutorials</h2>
 
-<details>
-  <summary> xxx </summary>
-  
-  ### 2022
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **CVPR** | Building and Working in Environments for Embodied AI | [HomePage](https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/) |
-
-</details>
+| **CVPR'22** | Building and Working in Environments for Embodied AI | [HomePage](https://ai-workshops.github.io/building-and-working-in-environments-for-embodied-ai-cvpr-2022/) |
 
 
 <h2 id="2">2. Workshops</h2>
