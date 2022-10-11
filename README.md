@@ -21,15 +21,34 @@
 <h2 id="0">0. Papers</h2>
 
 <details>
-  <summary> xxx </summary>
-  
-  ### 2022
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+  <summary> 2022 </summary>
+  - xxxx (CVPR, xxx)
 
 </details>
 
+<details>
+  <summary> 2021 </summary>
+  - xxxx (CVPR, xxx)
+
+</details>
+
+<details>
+  <summary> 2020 </summary>
+  - xxxx (CVPR, xxx)
+
+</details>
+
+<details>
+  <summary> 2019 </summary>
+  - xxxx (CVPR, xxx)
+
+</details>
+
+<details>
+  <summary> 2018 </summary>
+  - xxxx (CVPR, xxx)
+
+</details>
 
 <h2 id="1">1. Tutorials</h2>
 
