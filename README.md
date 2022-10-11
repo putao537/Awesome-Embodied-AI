@@ -40,15 +40,13 @@
 
 <h2 id="2">2. Workshops</h2>
 
-<details>
-  <summary> xxx </summary>
-  
-  ### 2022
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+| **CVPR'22** | Embodied AI Workshop | [HomePage](https://embodied-ai.org/) |
+| **CVPR'21** | Embodied AI Workshop | [HomePage](https://embodied-ai.org/cvpr2021) |
+| **ICCV'21** | SEAI: Simulation Technology for Embodied AI | [HomePage](https://iccv21-seai.github.io/) |
+| **CVPR'20** | Embodied AI Workshop | [HomePage](https://embodied-ai.org/cvpr2020) |
 
-</details>
 
 <h2 id="3">3. Talks</h2>
 
