@@ -84,22 +84,22 @@
 <details>
   <summary> Visual Navigation </summary>  
 
-  - **REVERIE** (From "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments", CVPR 2020, [PDF](https://arxiv.org/abs/1904.10151))
+  - **REVERIE** (CVPR 2020, [[PDF]](https://arxiv.org/abs/1904.10151))
     REVERIE requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
   
-  - **TOUCHDOWN** (From "TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments", CVPR 2019, [PDF](https://arxiv.org/abs/1811.12354))
+  - **TOUCHDOWN** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1811.12354))   
     TOUCHDOWN requires an agent to first follow navigation instructions in a real-life visual urban environment, and then identify a location described in natural language to find a hidden object at the goal position.
 
-  - **VNLA** (From "Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention", CVPR 2019, [PDF](https://arxiv.org/abs/1812.04155))
+  - **VNLA** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155))   
     VNLA requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location. 
   
-  - **VLN** (From "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments", CVPR 2018, [PDF](https://arxiv.org/abs/1711.07280))
+  - **VLN** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280))
     VLN requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  
   
-  - **IQA** (From "IQA: Visual Question Answering in Interactive Environments", CVPR 2018, [PDF](https://arxiv.org/abs/1712.03316)) 
+  - **IQA** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1712.03316))   
     IQA puts an intelligent agent at random location in a 3D environment and asked a question. This task requires an agent to navigate around the scene, acquire visual understanding of scene elements, interact with objects (e.g. open refrigerators) and plan for a series of actions conditioned on the question.
    
-  - **EQA** (From "Embodied Question Answering", CVPR 2018, [PDF](https://arxiv.org/abs/1711.11543))
+  - **EQA** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.11543))   
     EAQ puts an intelligent agent at random location in a 3D environment and asked a question. The agent must first intelligently navigate to explore the environment, gather necessary visual information through first-person (egocentric) vision, and then answer the question.
 
 </details>
