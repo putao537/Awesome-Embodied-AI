@@ -108,25 +108,31 @@
 <h2 id="7">7. Virtual Environments</h2>
 
 - [AI2-THOR](https://ai2thor.allenai.org/) (arxiv'17, [[PDF]](https://arxiv.org/pdf/1712.05474.pdf))    
-  xxxxx
+  xxxxx   
 
 - [AI Habitat](https://aihabitat.org/) (ICCV'19, [[PDF]](https://arxiv.org/pdf/1904.01201.pdf)) 
-  xxxxx
+  xxxxx   
   
 - [VirtualHome](http://virtual-home.org/) (CVPR'18, [[PDF]](https://arxiv.org/pdf/1806.07011.pdf))    
-  xxxx
+  xxxxx   
   
 - [House3D](https://github.com/facebookresearch/House3D) (arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.02209.pdf))  
+  xxxxx   
   
 - [Gibson](http://gibsonenv.stanford.edu/) (arxiv'18, [[PDF]](https://arxiv.org/pdf/1808.10654.pdf)) 
+  xxxxx   
   
 - [Matterport3D](https://niessner.github.io/Matterport/) (3DV'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf))  
+  xxxxx   
   
 - [UnrealCV](https://unrealcv.org/) (ACM MM'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf))   
+  xxxxx   
   
 - [CHALET](https://github.com/lil-lab/chalet) (arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.07357.pdf))     
+  xxxxx   
   
 - [ALFWorld](https://alfworld.github.io/) (ICLR'21, [[PDF]]([https://arxiv.org/pdf/1709.06158.pdf](https://arxiv.org/pdf/2010.03768.pdf)))    
+  xxxxx   
   
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
