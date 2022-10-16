@@ -110,6 +110,8 @@
 <details>
   <summary> [AI2-THOR](https://ai2thor.allenai.org) </summary>
   
+[![](https://img.shields.io/badge/link-AI2-THOR-red.svg)]([https://996.icu](https://ai2thor.allenai.org))
+  
 Related Papers:
   - AI2-THOR: An Interactive 3D Environment for Visual AI, arxiv'17, [[PDF]](https://arxiv.org/pdf/1712.05474.pdf)
   - RoboTHOR: An Open Simulation-to-Real Embodied AI Platform, CVPR'20, [[PDF]](https://arxiv.org/pdf/2004.06799.pdf)
