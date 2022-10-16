@@ -123,7 +123,7 @@
     <summary> Related Papers </summary>
   
       - Habitat: A Platform for Embodied AI Research, ICCV'19, [[PDF]](https://arxiv.org/pdf/1904.01201.pdf)
-      - Habitat 2.0: Training Home Assistants to Rearrange their Habitat, NeurIPS'21, [[PDF]](https://arxiv.org/abs/2106.14405.pdf)
+      - Habitat 2.0: Training Home Assistants to Rearrange their Habitat, NeurIPS'21
   
   </details>
   
@@ -131,7 +131,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - VirtualHome: Simulating Household Activities via Programs, CVPR'18, [[PDF]](https://arxiv.org/pdf/1806.07011.pdf)
+      - VirtualHome: Simulating Household Activities via Programs, CVPR'18
   
   </details>
   
@@ -139,7 +139,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - Building generalizable agents with a realistic and rich 3D environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.02209.pdf)
+      - Building generalizable agents with a realistic and rich 3D environment, arxiv'18
   
   </details>
   
@@ -147,7 +147,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - Gibson Env: Real-World Perception for Embodied Agents, arxiv'18, [[PDF]](https://arxiv.org/pdf/1808.10654.pdf)
+      - Gibson Env: Real-World Perception for Embodied Agents, arxiv'18
   
   </details>
   
@@ -155,7 +155,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - Matterport3D: Learning from RGB-D Data in Indoor Environments, 3DV'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf)
+      - Matterport3D: Learning from RGB-D Data in Indoor Environments, 3DV'17
   
   </details>
   
@@ -163,7 +163,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - UnrealCV: Virtual Worlds for Computer Vision, ACM MM'17, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396)
+      - UnrealCV: Virtual Worlds for Computer Vision, ACM MM'17
   
   </details>
   
@@ -171,7 +171,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - CHALET: Cornell House Agent Learning Environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.07357.pdf)
+      - CHALET: Cornell House Agent Learning Environment, arxiv'18
   
   </details>
   
@@ -179,7 +179,7 @@
   <details>
     <summary> Related Papers </summary>
   
-      - ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR'21, [[PDF]](https://arxiv.org/pdf/2010.03768.pdf)
+      - ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR'21
   
   </details>
 <h2 id="8">8. Datasets & Benchmarks</h2>
