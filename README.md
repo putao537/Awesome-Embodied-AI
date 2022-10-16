@@ -110,10 +110,12 @@
 - AI2-THOR ![](https://img.shields.io/badge/link-AI2THOR-red.svg)      
   <details>
     <summary> Related Papers </summary>
+  
       - AI2-THOR: An Interactive 3D Environment for Visual AI, arxiv'17, [[PDF]](https://arxiv.org/pdf/1712.05474.pdf)
       - RoboTHOR: An Open Simulation-to-Real Embodied AI Platform, CVPR'20, [[PDF]](https://arxiv.org/pdf/2004.06799.pdf)
       - ManipulaTHOR: A Framework for Visual Object Manipulation, CVPR'21, [[PDF]](https://arxiv.org/pdf/2104.11213.pdf)
       - ProcTHOR: Large-Scale Embodied AI Using Procedural Generation, arxiv'22, [[PDF]](https://arxiv.org/pdf/2206.06994.pdf)
+  
   </details>
 
 - AI Habitat ([[Project]](https://aihabitat.org/))  
