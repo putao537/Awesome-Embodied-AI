@@ -107,42 +107,81 @@
 
 <h2 id="7">7. Virtual Environments</h2>
 
-- AI2-THOR ![](https://img.shields.io/badge/link-AI2THOR-red.svg)      
+- [AI2-THOR](https://img.shields.io/badge/link-AI2THOR-red.svg)      
   <details>
     <summary> Related Papers </summary>
   
-      - AI2-THOR: An Interactive 3D Environment for Visual AI, arxiv'17, [[PDF]](https://arxiv.org/pdf/1712.05474.pdf)
-      - RoboTHOR: An Open Simulation-to-Real Embodied AI Platform, CVPR'20, [[PDF]](https://arxiv.org/pdf/2004.06799.pdf)
-      - ManipulaTHOR: A Framework for Visual Object Manipulation, CVPR'21, [[PDF]](https://arxiv.org/pdf/2104.11213.pdf)
-      - ProcTHOR: Large-Scale Embodied AI Using Procedural Generation, arxiv'22, [[PDF]](https://arxiv.org/pdf/2206.06994.pdf)
+      - AI2-THOR: An Interactive 3D Environment for Visual AI, arxiv'17
+      - RoboTHOR: An Open Simulation-to-Real Embodied AI Platform, CVPR'20
+      - ManipulaTHOR: A Framework for Visual Object Manipulation, CVPR'21
+      - ProcTHOR: Large-Scale Embodied AI Using Procedural Generation, arxiv'22
   
   </details>
 
-- AI Habitat ([[Project]](https://aihabitat.org/))  
-  - Habitat: A Platform for Embodied AI Research, ICCV'19, [[PDF]](https://arxiv.org/pdf/1904.01201.pdf)
-  - Habitat 2.0: Training Home Assistants to Rearrange their Habitat, NeurIPS'21, [[PDF]](https://arxiv.org/abs/2106.14405.pdf)
-
-- VirtualHome ([[Project]](http://virtual-home.org/))     
-  - VirtualHome: Simulating Household Activities via Programs, CVPR'18, [[PDF]](https://arxiv.org/pdf/1806.07011.pdf)
-
-- House3D ([[Project]](https://github.com/facebookresearch/House3D))  
-  - Building generalizable agents with a realistic and rich 3D environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.02209.pdf)
-
-- Gibson ([[Project]](http://gibsonenv.stanford.edu/))  
-  - Gibson Env: Real-World Perception for Embodied Agents, arxiv'18, [[PDF]](https://arxiv.org/pdf/1808.10654.pdf)
-
-- Matterport3D ([[Project]](https://niessner.github.io/Matterport/))  
-  - Matterport3D: Learning from RGB-D Data in Indoor Environments, 3DV'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf)
-
-- UnrealCV ([[Project]](https://unrealcv.org/))
-  - UnrealCV: Virtual Worlds for Computer Vision, ACM MM'17, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396)
+- [AI Habitat](https://aihabitat.org/)  
+  <details>
+    <summary> Related Papers </summary>
   
-- CHALET ([[Project]](https://github.com/lil-lab/chalet))
-  - CHALET: Cornell House Agent Learning Environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.07357.pdf)
-
-- ALFWorld ([[Project]](https://alfworld.github.io/))
-  - ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR'21, [[PDF]](https://arxiv.org/pdf/2010.03768.pdf)
-
+      - Habitat: A Platform for Embodied AI Research, ICCV'19, [[PDF]](https://arxiv.org/pdf/1904.01201.pdf)
+      - Habitat 2.0: Training Home Assistants to Rearrange their Habitat, NeurIPS'21, [[PDF]](https://arxiv.org/abs/2106.14405.pdf)
+  
+  </details>
+  
+- [VirtualHome](http://virtual-home.org/)     
+  <details>
+    <summary> Related Papers </summary>
+  
+      - VirtualHome: Simulating Household Activities via Programs, CVPR'18, [[PDF]](https://arxiv.org/pdf/1806.07011.pdf)
+  
+  </details>
+  
+- [House3D](https://github.com/facebookresearch/House3D)   
+  <details>
+    <summary> Related Papers </summary>
+  
+      - Building generalizable agents with a realistic and rich 3D environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.02209.pdf)
+  
+  </details>
+  
+- [Gibson](http://gibsonenv.stanford.edu/)  
+  <details>
+    <summary> Related Papers </summary>
+  
+      - Gibson Env: Real-World Perception for Embodied Agents, arxiv'18, [[PDF]](https://arxiv.org/pdf/1808.10654.pdf)
+  
+  </details>
+  
+- [Matterport3D](https://niessner.github.io/Matterport/)   
+  <details>
+    <summary> Related Papers </summary>
+  
+      - Matterport3D: Learning from RGB-D Data in Indoor Environments, 3DV'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf)
+  
+  </details>
+  
+- [UnrealCV](https://unrealcv.org/)  
+  <details>
+    <summary> Related Papers </summary>
+  
+      - UnrealCV: Virtual Worlds for Computer Vision, ACM MM'17, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396)
+  
+  </details>
+  
+- [CHALET](https://github.com/lil-lab/chalet)   
+  <details>
+    <summary> Related Papers </summary>
+  
+      - CHALET: Cornell House Agent Learning Environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.07357.pdf)
+  
+  </details>
+  
+- [ALFWorld](https://alfworld.github.io/)   
+  <details>
+    <summary> Related Papers </summary>
+  
+      - ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR'21, [[PDF]](https://arxiv.org/pdf/2010.03768.pdf)
+  
+  </details>
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
 <details>
