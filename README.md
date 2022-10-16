@@ -13,7 +13,7 @@
 <p align="center">
   <strong><a href="#5">Surveys</a></strong> •
   <strong><a href="#6">Tasks</a></strong> •
-  <strong><a href="#7">Simulators</a></strong> •
+  <strong><a href="#7">Virtual Environments</a></strong> •
   <strong><a href="#8">Datasets & Benchmarks</a></strong>
 </p>
 
@@ -130,7 +130,7 @@
 </details>
 
 
-<h2 id="7">7. Simulators</h2>
+<h2 id="7">7. Virtual Environments</h2>
 
 <details>
   <summary> xxx </summary>
