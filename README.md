@@ -7,7 +7,7 @@
   <strong><a href="#1">Tutorials</a></strong> •
   <strong><a href="#2">Workshops</a></strong> •
   <strong><a href="#3">Talks</a></strong> •
-  <strong><a href="#4">Scholars</a></strong>
+  <strong><a href="#4">Scholars & Teams</a></strong>
 </p>
 
 <p align="center">
@@ -53,17 +53,10 @@
 </details>
 
 
-<h2 id="4">4. Scholars</h2>
+<h2 id="4">4. Scholars & Labs</h2>
 
-<details>
-  <summary> xxx </summary>
-  
-  ### 2022
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
-
-</details>
+### Labs
+- [Robotic Systems Lab](https://rsl.ethz.ch/), ETH Zurich
 
 
 <h2 id="5">5. Surveys</h2>
