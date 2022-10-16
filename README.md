@@ -71,7 +71,6 @@
 <details>
   <summary> Locomotion </summary>  
 
-
 </details>
 
 <details>
@@ -109,16 +108,33 @@
 
 <h2 id="7">7. Virtual Environments</h2>
 
-<details>
-  <summary> xxx </summary>
-  
-  ### 2022
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+- AI2-THOR ([[Project]](https://ai2thor.allenai.org/))
+  Related Papers:
+  - AI2-THOR: An Interactive 3D Environment for Visual AI, arxiv'17, [[PDF]](https://arxiv.org/pdf/1712.05474.pdf)
+  - RoboTHOR: An Open Simulation-to-Real Embodied AI Platform, CVPR'20, [[PDF]](https://arxiv.org/pdf/2004.06799.pdf)
+  - ManipulaTHOR: A Framework for Visual Object Manipulation, CVPR'21, [[PDF]](https://arxiv.org/pdf/2104.11213.pdf)
+  - ProcTHOR: Large-Scale Embodied AI Using Procedural Generation, arxiv'22, [[PDF]](https://arxiv.org/pdf/2206.06994.pdf)
 
-</details>
+- AI Habitat ([[Project]](https://aihabitat.org/))
+  Related Papers:
+  - Habitat: A Platform for Embodied AI Research, ICCV'19, [[PDF]](https://arxiv.org/pdf/1904.01201.pdf)
+  - Habitat 2.0: Training Home Assistants to Rearrange their Habitat, NeurIPS'21, [[PDF]](https://arxiv.org/abs/2106.14405.pdf)
 
+- VirtualHome ([[Project]](http://virtual-home.org/))
+  Related Papers:
+  - VirtualHome: Simulating Household Activities via Programs, CVPR'18, [[PDF]](https://arxiv.org/pdf/1806.07011.pdf)
+
+- House3D ([[Project]](https://github.com/facebookresearch/House3D))
+  Related Papers:
+  - Building generalizable agents with a realistic and rich 3D environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.02209.pdf)
+
+- Gibson ([[Project]](http://gibsonenv.stanford.edu/))
+  Related Papers:
+  - Gibson Env: Real-World Perception for Embodied Agents, arxiv'18, [[PDF]](https://arxiv.org/pdf/1808.10654.pdf)
+
+- Matterport3D  ([[Project]](https://niessner.github.io/Matterport/))
+  Related Papers:
+  - Matterport3D: Learning from RGB-D Data in Indoor Environments, 3DV'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf)
 
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
