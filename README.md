@@ -57,6 +57,7 @@
 
 ### Labs
 - [Robotic Systems Lab](https://rsl.ethz.ch/), ETH Zurich
+- [Stanford Vision And Learning Lab](https://svl.stanford.edu/), Standford
 
 
 <h2 id="5">5. Surveys</h2>
@@ -127,8 +128,17 @@
 - Gibson ([[Project]](http://gibsonenv.stanford.edu/))  
   - Gibson Env: Real-World Perception for Embodied Agents, arxiv'18, [[PDF]](https://arxiv.org/pdf/1808.10654.pdf)
 
-- Matterport3D  ([[Project]](https://niessner.github.io/Matterport/))  
+- Matterport3D ([[Project]](https://niessner.github.io/Matterport/))  
   - Matterport3D: Learning from RGB-D Data in Indoor Environments, 3DV'17, [[PDF]](https://arxiv.org/pdf/1709.06158.pdf)
+
+- UnrealCV ([[Project]](https://unrealcv.org/))
+  - UnrealCV: Virtual Worlds for Computer Vision, ACM MM'17, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396)
+  
+- CHALET ([[Project]](https://github.com/lil-lab/chalet))
+  - CHALET: Cornell House Agent Learning Environment, arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.07357.pdf)
+
+- ALFWorld ([[Project]](https://alfworld.github.io/))
+  - ALFWorld: Aligning Text and Embodied Environments for Interactive Learning, ICLR'21, [[PDF]](https://arxiv.org/pdf/2010.03768.pdf)
 
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
