@@ -64,7 +64,7 @@
 
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **T-ETCI'22* | A Survey of Embodied AI: From Simulators to Research Tasks | [PDF]([xxx](https://arxiv.org/abs/2103.04918)) |
+| **T-ETCI'22** | A Survey of Embodied AI: From Simulators to Research Tasks | [PDF](https://arxiv.org/abs/2103.04918) |
 
 
 <h2 id="6">6. Tasks</h2>
