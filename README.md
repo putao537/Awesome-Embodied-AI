@@ -104,7 +104,7 @@
 <details>
   <summary> Rearrangement </summary>  
   
-  - **Rearrangement** (CVPR workshop 2022, [[Website]](https://ai2thor.allenai.org/rearrangement/)) requires an agent moves objects in a room, such that they are restored to a given initial configuration.
+  - **Rearrangement** (CVPR 2021, [[PDF]](https://arxiv.org/pdf/2103.16544.pdf)) requires an agent moves objects in a room, such that they are restored to a given initial configuration.
 
 
 </details>
