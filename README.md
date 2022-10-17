@@ -140,12 +140,7 @@
   
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
-<details>
-  <summary> xxx </summary>
-  
-  ### 2022
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[xxx]** xxxx | [PDF](xxx) |
+- ### RoomR
+  RoomR includes 6,000 distinct rearrangement settings involving 72 different object types in 120 scenes.
 
 </details>
