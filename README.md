@@ -65,6 +65,8 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **T-ETCI'22** | A Survey of Embodied AI: From Simulators to Research Tasks | [PDF](https://arxiv.org/abs/2103.04918) |
+| **Eng. Appl. Artif'22** | A Survey of Visual Navigation: From Geometry to Embodied AI | [PDF](https://www.sciencedirect.com/science/article/pii/S095219762200207X) |
+| arxiv'21 | Deep Learning for Embodied Vision Navigation: A Survey | [PDF](https://arxiv.org/pdf/2108.04097.pdf) |
 
 
 <h2 id="6">6. Tasks</h2>
