@@ -4,7 +4,8 @@ StructFormer: Learning Spatial Structure for Language-Guided Semantic Rearrangem
 
 ## 2021
 Visual Room Rearrangement, CVPR 2021, [[PDF]](https://arxiv.org/pdf/2103.16544.pdf)  
-Object Rearrangement Using Learned Implicit Collision Functions, ICRA 2021, [[PDF]](https://arxiv.org/pdf/2011.10726.pdf)
+Object Rearrangement Using Learned Implicit Collision Functions, ICRA 2021, [[PDF]](https://arxiv.org/pdf/2011.10726.pdf)  
+NeRP: Neural Rearrangement Planning for Unknown Objects, arxiv, 2021, [[PDF]](https://arxiv.org/pdf/2106.01352.pdf)
 
 
 ## 2020
