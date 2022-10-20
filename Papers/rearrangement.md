@@ -1,7 +1,7 @@
 
 ## 2021
 Visual Room Rearrangement, CVPR 2021, [[PDF]](https://arxiv.org/pdf/2103.16544.pdf)  
-Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-conditioned Transporter Networks, ICRA 2021, [[PDF]](https://arxiv.org/pdf/2012.03385.pdf)  
+Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks, ICRA 2021, [[PDF]](https://arxiv.org/pdf/2012.03385.pdf)  
 Object Rearrangement Using Learned Implicit Collision Functions, ICRA 2021, [[PDF]](https://arxiv.org/pdf/2011.10726.pdf)
 
 
