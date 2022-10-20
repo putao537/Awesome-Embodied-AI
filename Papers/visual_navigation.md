@@ -1,3 +1,5 @@
+## 2022
+Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale, CVPR 2022, [[PDF]](https://arxiv.org/pdf/2204.03514.pdf)  
 
 ## 2019
 - Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention, CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)
