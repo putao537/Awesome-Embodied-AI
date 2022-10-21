@@ -58,6 +58,7 @@
 ### Labs
 - [Robotic Systems Lab](https://rsl.ethz.ch/), ETH Zurich
 - [Stanford Vision And Learning Lab](https://svl.stanford.edu/), Standford
+- [Robotics and Embodied AI Lab](https://montrealrobotics.ca/), Université de Montréal
 
 
 <h2 id="5">5. Surveys</h2>
