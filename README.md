@@ -141,8 +141,8 @@
   
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
-- ### Room-to-Room (R2R, CVPR 2018, based on Matterport3D, [Homepage](https://bringmeaspoon.org/)))
-  xxxx
+- ### Room-to-Room (R2R, CVPR 2018, based on Matterport3D, [Homepage](https://bringmeaspoon.org/))
+  - Dataset for visually-grounded natural language navigation in real buildings.  
 
 - ### RoomR 
   RoomR includes 6,000 distinct rearrangement settings involving 72 different object types in 120 scenes.
