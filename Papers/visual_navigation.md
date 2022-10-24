@@ -1,13 +1,19 @@
 **SubTasks:**   
-<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#0">[ObjectGoal Navigation]</a></strong> <strong><a href="#0">[ImageGoal Navigation]</a></strong>  
-<strong><a href="#0">[Audio-Visual Navigation]</a></strong> <strong><a href="#0">[Vision-Language Navigation]</a></strong>    
-<strong><a href="#0">[Embodied Question Answering]</a></strong>
+<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#1">[ObjectGoal Navigation]</a></strong> <strong><a href="#2">[ImageGoal Navigation]</a></strong>  
+<strong><a href="#3">[Audio-Visual Navigation]</a></strong> <strong><a href="#4">[Vision-Language Navigation]</a></strong>    
+<strong><a href="#5">[Embodied Question Answering]</a></strong>
 
 <h2 id="0">PointGoal Navigation</h2>
 
-### 2017
-- Cognitive Mapping and Planning for Visual Navigation, CVPR 2017, [[PDF]](https://arxiv.org/pdf/1702.03920.pdf)  
+<h2 id="1">ObjectGoal Navigation</h2>
 
+<h2 id="2">ImageGoal Navigation</h2>
+
+<h2 id="3">Audio-Visual Navigation</h2>
+
+<h2 id="4">Vision-Language Navigation</h2>
+
+<h2 id="5">Embodied Question Answering</h2>
 
 
 
