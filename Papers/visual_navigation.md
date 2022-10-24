@@ -1,4 +1,5 @@
-<strong><a href="#0">[PointGoal Navigation]</a></strong>
+<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#0">[ObjectGoal Navigation]</a></strong> <strong><a href="#0">[ImageGoal Navigation]</a></strong>  
+<strong><a href="#0">[Audio-Visual Navigation]</a></strong> <strong><a href="#0">[Vision-Language Navigation]</a></strong> 
 
 
 <h2 id="0">PointGoal Navigation</h2>
