@@ -1,3 +1,15 @@
+<strong><a href="#0">[PointGoal Navigation]</a></strong>
+
+
+<h2 id="0">PointGoal Navigation</h2>
+
+### 2017
+- Cognitive Mapping and Planning for Visual Navigation, CVPR 2017, [[PDF]](https://arxiv.org/pdf/1702.03920.pdf)  
+
+
+
+
+
 ## 2022
 -  Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale, CVPR 2022, [[PDF]](https://arxiv.org/pdf/2204.03514.pdf)  
 
@@ -13,8 +25,3 @@
 - ![](https://img.shields.io/badge/VLN-blue.svg) Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments, CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)  
 
 
-
-## PointGoal Navigation
-
-### 2017
-- Cognitive Mapping and Planning for Visual Navigation, CVPR 2017, [[PDF]](https://arxiv.org/pdf/1702.03920.pdf)  
