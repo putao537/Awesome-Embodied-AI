@@ -21,7 +21,7 @@
 <h2 id="0">0. Papers</h2>
 
 **By Date:** [[2022]](Papers/2022.md) [[2021]](Papers/2021.md) [[2020]](Papers/2020.md) [[2019]](Papers/2019.md) [[2018]](Papers/2018.md)    
-**By Tasks:** [[Locomotion]](Papers/locomotion.md) [[Visual Navigation]](Papers/visual_navigation.md) [[Object Manipulation]](Papers/object_manipulation.md) [[Rearrangement]](Papers/rearrangement.md) [[Others]](Papers/others.md)  
+**By Tasks:** [[Locomotion]](Papers/locomotion.md) [[Visual Navigation]](Papers/visual_navigation.md) [[Object Manipulation]](Papers/object_manipulation.md) [[Others]](Papers/others.md)  
 
 <h2 id="1">1. Tutorials</h2>
 
@@ -80,9 +80,6 @@
 <details>
   <summary> Visual Navigation </summary>  
 
-  - **REVERIE** (CVPR 2020, [[PDF]](https://arxiv.org/abs/1904.10151)) requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
-  
-  - **TOUCHDOWN** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1811.12354)) requires an agent to first follow navigation instructions in a real-life visual urban environment, and then identify a location described in natural language to find a hidden object at the goal position.
 
   - **VNLA** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location. 
   
@@ -103,10 +100,15 @@
 
 
 <details>
-  <summary> Rearrangement </summary>  
+  <summary> Others </summary>  
   
   - **Rearrangement** (arxiv 2020, [[PDF]](https://arxiv.org/pdf/2011.01975.pdf)) requires an agent moves objects in a room, such that they are restored to a given initial configuration.
 
+  - **REVERIE** (CVPR 2020, [[PDF]](https://arxiv.org/abs/1904.10151)) requires an intelligent agent to correctly localize a remote target object (can not be observed at starting location) specified by a concise high-level natural language instruction.
+  
+  - **TOUCHDOWN** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1811.12354)) requires an agent to first follow navigation instructions in a real-life visual urban environment, and then identify a location described in natural language to find a hidden object at the goal position.
+  
+  
 
 </details>
 
