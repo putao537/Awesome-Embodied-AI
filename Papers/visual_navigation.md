@@ -14,4 +14,7 @@
 
 
 
+## PointGoal Navigation
 
+### 2017
+- Cognitive Mapping and Planning for Visual Navigation, CVPR 2017, [[PDF]](https://arxiv.org/pdf/1702.03920.pdf)  
