@@ -23,6 +23,9 @@
 **By Date:** [[2022]](Papers/2022.md) [[2021]](Papers/2021.md) [[2020]](Papers/2020.md) [[2019]](Papers/2019.md) [[2018]](Papers/2018.md)    
 **By Tasks:** [[Locomotion]](Papers/locomotion.md) [[Visual Navigation]](Papers/visual_navigation.md) [[Object Manipulation]](Papers/object_manipulation.md) [[Others]](Papers/others.md)  
 
+#### Survey
+- Deep learning for embodied vision navigation: A survey, arxiv 2021, [[PDF]](https://arxiv.org/abs/2108.04097)
+
 <h2 id="1">1. Tutorials</h2>
 
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
