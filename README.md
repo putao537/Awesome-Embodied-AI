@@ -24,6 +24,7 @@
 **By Tasks:** [[Locomotion]](Papers/locomotion.md) [[Visual Navigation]](Papers/visual_navigation.md) [[Object Manipulation]](Papers/object_manipulation.md) [[Others]](Papers/others.md)  
 
 #### Survey
+- A Survey of Embodied AI: From Simulators to Research Tasks, T-ETC 2021, [[PDF]](https://arxiv.org/abs/2103.04918)
 - Deep learning for embodied vision navigation: A survey, arxiv 2021, [[PDF]](https://arxiv.org/abs/2108.04097)
 
 <h2 id="1">1. Tutorials</h2>
