@@ -86,6 +86,7 @@
 <details>
   <summary> Visual Navigation </summary>  
 
+  - **PointGol Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
 
   - **VNLA** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location. 
   
