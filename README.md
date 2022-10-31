@@ -7,7 +7,7 @@
   <strong><a href="#1">Tutorials</a></strong> •
   <strong><a href="#2">Workshops</a></strong> •
   <strong><a href="#3">Talks</a></strong> •
-  <strong><a href="#4">Scholars & Teams</a></strong>
+  <strong><a href="#4">Companies & Labs</a></strong>
 </p>
 
 <p align="center">
@@ -53,7 +53,9 @@
 </details>
 
 
-<h2 id="4">4. Scholars & Labs</h2>
+<h2 id="4">4. Companies & Labs</h2>
+
+### Companies
 
 ### Labs
 - [Robotic Systems Lab](https://rsl.ethz.ch/), ETH Zurich
