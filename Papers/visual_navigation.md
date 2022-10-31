@@ -4,9 +4,13 @@
 <strong><a href="#5">[Embodied Question Answering]</a></strong>
 
 <h2 id="0">PointGoal Navigation</h2>
-
 ## 2019
 - SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation, ICCV 2019, [[PDF]](https://arxiv.org/abs/1905.07512)    
+
+## 2018
+- On Evaluation of Embodied Navigation Agents, arxiv 2018, [[PDF]](https://arxiv.org/abs/1807.06757)  
+
+
 
 <h2 id="1">ObjectGoal Navigation</h2>
 
