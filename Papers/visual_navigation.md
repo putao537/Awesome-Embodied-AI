@@ -6,12 +6,14 @@
 <h2 id="0">PointGoal Navigation</h2>
 
 ## 2019
-
-- SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation, ICCV 2019, [[PDF]](https://arxiv.org/abs/1905.07512)
+- SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation, ICCV 2019, [[PDF]](https://arxiv.org/abs/1905.07512)    
 
 <h2 id="1">ObjectGoal Navigation</h2>
 
 <h2 id="2">ImageGoal Navigation</h2>
+
+## 2017
+- Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning, ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)   
 
 <h2 id="3">Audio-Visual Navigation</h2>
 
