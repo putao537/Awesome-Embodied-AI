@@ -1,5 +1,5 @@
 **SubTasks:**   
-<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#1">[ImageGoal Navigation]</a></strong> <strong><a href="#2">[ObjectGoal Navigation]</a></strong>    
+<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#1">[ObjectGoal Navigation]</a></strong> <strong><a href="#2">[RoomGoal Navigation]</a></strong>    
 <strong><a href="#3">[Audio-Visual Navigation]</a></strong> <strong><a href="#4">[Vision-Language Navigation]</a></strong>    
 
 
@@ -14,13 +14,7 @@
 
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
-<h2 id="1">ImageGoal Navigation</h2>
-
-### 2017
-- Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning, ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)   
-
-[//]: # (---------------------------------Comment for segmentation---------------------------------)
-<h2 id="2">ObjectGoal Navigation</h2>
+<h2 id="1">ObjectGoal Navigation</h2>
 
 ### 2020  
 - Object Goal Navigation using Goal-Oriented Semantic Exploration, NeurlPS 2020, [[PDF]](https://arxiv.org/abs/2007.00643)  
@@ -32,10 +26,22 @@
 ### 2018  
 - Visual Semantic Navigation using Scene Priors, arxiv 2018, [[PDF]](https://arxiv.org/abs/1810.06543)  
 
+### 2017
+- Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning, ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)   
+
+
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
+<h2 id="2">RoomGoal Navigation</h2>
+
+### 2018 
+- Building generalizable agents with a realistic and rich 3d environment, ICLR Workshop 2018, [[PDF]](https://arxiv.org/abs/1801.02209)  
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="3">Audio-Visual Navigation</h2>
 
+### 2020 
+- SoundSpaces: Audio-Visual Navigation in 3D Environments, ECCV 2020, [[PDF]](https://arxiv.org/abs/1912.11474)   
+- Look, Listen, and Act: Towards Audio-Visual Embodied Navigation, ICRA 2020, [[PDF]](https://arxiv.org/abs/1912.11684)  
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="4">Vision-Language Navigation</h2>
