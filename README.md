@@ -86,11 +86,11 @@
 <details>
   <summary> Visual Navigation </summary>  
 
-  - **PointGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
+  - **PointGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an embodied agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
   
-  - **ImageGoal Navigation** (ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location towards a specific location that is specified by an RGB image. 
+  - **ImageGoal Navigation** (ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an embodied agent to navigate form a starting location towards a specific location that is specified by an RGB image. 
 
-  - **ObjectGoal Navigation** (, [[PDF]]())  .
+  - **ObjectGoal Navigation** (ICRA 2019, [[PDF]](https://arxiv.org/abs/1805.06066)) requires an embodied agent that is initialized at a random starting position to find a specific object. Moreover, some works propose to find novel objects by utilizing scene priors.
   
   - **Audio-Visual Navigation** (, [[PDF]]())  .
   
