@@ -1,8 +1,9 @@
 **SubTasks:**   
-<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#1">[ObjectGoal Navigation]</a></strong> <strong><a href="#2">[ImageGoal Navigation]</a></strong>  
+<strong><a href="#0">[PointGoal Navigation]</a></strong> <strong><a href="#1">[ImageGoal Navigation]</a></strong> <strong><a href="#2">[ObjectGoal Navigation]</a></strong>    
 <strong><a href="#3">[Audio-Visual Navigation]</a></strong> <strong><a href="#4">[Vision-Language Navigation]</a></strong>    
 <strong><a href="#5">[Embodied Question Answering]</a></strong>
 
+;------------------------------------------------------------------------------------------------------------------------------
 <h2 id="0">PointGoal Navigation</h2>
 
 ### 2019     
@@ -12,13 +13,14 @@
 - On Evaluation of Embodied Navigation Agents, arxiv 2018, [[PDF]](https://arxiv.org/abs/1807.06757)  
 
 
+<h2 id="1">ImageGoal Navigation</h2>
 
-<h2 id="1">ObjectGoal Navigation</h2>
-
-<h2 id="2">ImageGoal Navigation</h2>
-
-## 2017
+### 2017
 - Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning, ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)   
+
+
+<h2 id="2">ObjectGoal Navigation</h2>
+
 
 <h2 id="3">Audio-Visual Navigation</h2>
 
