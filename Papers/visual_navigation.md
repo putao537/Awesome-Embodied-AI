@@ -22,6 +22,11 @@
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="2">ObjectGoal Navigation</h2>
 
+### 2020  
+- Object Goal Navigation using Goal-Oriented Semantic Exploration, NeurlPS 2020, [[PDF]](https://arxiv.org/abs/2007.00643)  
+
+### 2019 
+- Learning to learn how to learn: Self-adaptive visual navigation using meta-learning, CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.00971)  
 
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
@@ -31,7 +36,16 @@
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="4">Vision-Language Navigation</h2>
 
+### 2020 
+- Vision-and-Dialog Navigation, CoRL 2020, [[PDF]](https://arxiv.org/abs/1907.04957)
+
+### 2019  
+- Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention, CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)
+
+
+### 2018   
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments, CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)  
+
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="5">Embodied Question Answering</h2>
