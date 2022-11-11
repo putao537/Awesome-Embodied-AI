@@ -88,15 +88,17 @@
 
   - **PointGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
   
-  - **ImageGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
+  - **ImageGoal Navigation** (ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location towards a specific location that is specified by an RGB image. 
 
+  - **ObjectGoal Navigation** (, [[PDF]]())  .
+  
+  - **Audio-Visual Navigation** (, [[PDF]]())  .
+  
+  - **Vision-Language Navigation** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  
+  
   - **VNLA** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location. 
-  
-  - **VLN** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  
-  
-  - **IQA** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1712.03316)) puts an intelligent agent at random location in a 3D environment and asked a question. This task requires an agent to navigate around the scene, acquire visual understanding of scene elements, interact with objects (e.g. open refrigerators) and plan for a series of actions conditioned on the question.
-   
-  - **EQA** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.11543)) puts an intelligent agent at random location in a 3D environment and asked a question. The agent must first intelligently navigate to explore the environment, gather necessary visual information through first-person (egocentric) vision, and then answer the question.
+ 
+
 
 </details>
 
@@ -110,6 +112,11 @@
 
 <details>
   <summary> Others </summary>  
+  
+  - **Embodied Question Answering** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.11543)) puts an intelligent agent at random location in a 3D environment and asked a question. The agent must first intelligently navigate to explore the environment, gather necessary visual information through first-person (egocentric) vision, and then answer the question.
+  
+  - **IQA** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1712.03316)) puts an intelligent agent at random location in a 3D environment and asked a question. This task requires an agent to navigate around the scene, acquire visual understanding of scene elements, interact with objects (e.g. open refrigerators) and plan for a series of actions conditioned on the question.
+   
   
   - **Rearrangement** (arxiv 2020, [[PDF]](https://arxiv.org/pdf/2011.01975.pdf)) requires an agent moves objects in a room, such that they are restored to a given initial configuration.
 
