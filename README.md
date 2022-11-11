@@ -88,11 +88,11 @@
 
   - **PointGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an embodied agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
   
-  - **ImageGoal Navigation** (ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an embodied agent to navigate form a starting location towards a specific location that is specified by an RGB image. 
+  - **RoomGoal Navigation** (ICLR workshop 2018, [[PDF]](https://arxiv.org/abs/1801.02209)) requires an embodied agent that is initialized at a random position to navigateto a spicific room (e.g. bedroom or kitchen). 
 
-  - **ObjectGoal Navigation** (ICRA 2019, [[PDF]](https://arxiv.org/abs/1805.06066)) requires an embodied agent that is initialized at a random starting position to find a specific object. Moreover, some works propose to find novel objects by utilizing scene priors.
+  - **ObjectGoal Navigation** (ICRA 2017, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an embodied agent that is initialized at a random starting position to find the target object. The target object is specified by an RGB image or semantic label. Moreover, some works propose to find novel objects by utilizing scene priors.
   
-  - **Audio-Visual Navigation** (, [[PDF]]())  .
+  - **Audio-Visual Navigation** (ECCV 2020, [[PDF]](https://arxiv.org/abs/1912.11474)) requires the embodied agent to navigate to a sound object by seeing and hearing.
   
   - **Vision-Language Navigation** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  Besides, some works propose to provide language-based assistance when the agent is lost.
 
