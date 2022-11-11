@@ -57,9 +57,3 @@
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments, CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)  
 
 
-[//]: # (---------------------------------Comment for segmentation---------------------------------)
-<h2 id="5">Embodied Question Answering</h2>
-
-
-
-
