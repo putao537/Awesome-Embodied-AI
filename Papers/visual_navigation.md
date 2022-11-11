@@ -3,7 +3,7 @@
 <strong><a href="#3">[Audio-Visual Navigation]</a></strong> <strong><a href="#4">[Vision-Language Navigation]</a></strong>    
 <strong><a href="#5">[Embodied Question Answering]</a></strong>
 
-[//]: # ---------------------------------Comment for segmentation---------------------------------
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="0">PointGoal Navigation</h2>
 
 ### 2019     
