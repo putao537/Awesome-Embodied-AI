@@ -94,11 +94,7 @@
   
   - **Audio-Visual Navigation** (, [[PDF]]())  .
   
-  - **Vision-Language Navigation** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  
-  
-  - **VNLA** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location. 
- 
-
+  - **Vision-Language Navigation** (CVPR 2018, [[PDF]](https://arxiv.org/abs/1711.07280)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location.  Besides, some works propose to provide language-based assistance when the agent is lost.
 
 </details>
 
