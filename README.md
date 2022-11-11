@@ -86,7 +86,9 @@
 <details>
   <summary> Visual Navigation </summary>  
 
-  - **PointGol Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
+  - **PointGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
+  
+  - **ImageGoal Navigation** (arxiv 2018, [[PDF]](https://arxiv.org/abs/1609.05143)) requires an emboided agent to navigate form a starting location to a specific location. Some works propose to merely provide the tuple of (angle of goal, distance to goal) at the starting goal while other works propose to constantly update this tuple with the movement of agent.
 
   - **VNLA** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)) requires an embodied agent to follow natural language instructions to navigate from a starting pose to a goal location. 
   
@@ -116,7 +118,6 @@
   - **TOUCHDOWN** (CVPR 2019, [[PDF]](https://arxiv.org/abs/1811.12354)) requires an agent to first follow navigation instructions in a real-life visual urban environment, and then identify a location described in natural language to find a hidden object at the goal position.
   
   
-
 </details>
 
 <h2 id="7">7. Virtual Environments</h2>
