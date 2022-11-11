@@ -1,3 +1,14 @@
+**SubTasks:**   
+<strong><a href="#0">[Embodied Question Answering]</a></strong> 
+
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
+<strong><a href="#0">[Embodied Question Answering]</a></strong>
+
+### 2018
+- Embodied Question Answering, CVPR'18, [[PDF]](https://arxiv.org/abs/1711.11543)
+- IQA: Visual Question Answering in Interactive Environments, CVPR'18, [[PDF]](https://arxiv.org/abs/1712.03316)
+
+
 ## 2022
 
 Simple but Effective: CLIP Embeddings for Embodied AI, CVPR 2022, [[PDF]](https://arxiv.org/pdf/2111.09888.pdf)   
@@ -5,6 +16,18 @@ Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolutio
 
 ## 2021
 GRIDTOPIX: Training Embodied Agents with Minimal Supervision, ICCV 2021, [[PDF]](https://arxiv.org/pdf/2105.00931.pdf)
+
+
+
+## 2022
+-  Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale, CVPR 2022, [[PDF]](https://arxiv.org/pdf/2204.03514.pdf)  
+
+## 2019
+- Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention, CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.04155)
+- TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments, CVPR 2019, [[PDF]](https://arxiv.org/abs/1811.12354)
+- REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments, CVPR 2020, [[PDF]](https://arxiv.org/abs/1904.10151)
+
+
 
 
 ## Rerangement 
