@@ -27,6 +27,10 @@
 
 ### 2019 
 - Learning to learn how to learn: Self-adaptive visual navigation using meta-learning, CVPR 2019, [[PDF]](https://arxiv.org/abs/1812.00971)  
+- Visual Representations for Semantic Target Driven Navigation, ICRA 2019, [[PDF]](https://arxiv.org/abs/1805.06066)  
+
+### 2018  
+- Visual Semantic Navigation using Scene Priors, arxiv 2018, [[PDF]](https://arxiv.org/abs/1810.06543)  
 
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
