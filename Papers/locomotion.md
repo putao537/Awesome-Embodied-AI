@@ -1,4 +1,16 @@
+**Types:**   
+<strong><a href="#0">[Articulated Robots]</a></strong> <strong><a href="#1">[Quadruped robot]</a></strong> <strong><a href="#2">[Humanoids]</a></strong>    
 
+
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
+<h2 id="0">Articulated Robots</h2>
+
+
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
+<h2 id="1">Quadruped robot</h2>
 
 ### 2021
 - Real-world embodied AI through a morphologically adaptive quadruped robot, Nature Machine Intelligence 2021, [[PDF]](https://www.nature.com/articles/s42256-021-00320-3)
+
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
+<h2 id="2">Humanoids</h2>
