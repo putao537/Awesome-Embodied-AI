@@ -15,6 +15,9 @@
 - Embodied intelligence via learning and evolution, Nature Communications 2021, [[PDF]]()
 - GRIDTOPIX: Training Embodied Agents with Minimal Supervision, ICCV 2021, [[PDF]](https://arxiv.org/pdf/2105.00931.pdf)
 
+### 2020
+- Hierarchical principles of embodied reinforcement learning: A review, arxiv 2020, [[PDF]](https://arxiv.org/abs/2012.10147)
+
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="1">Embodied Question Answering</h2>
