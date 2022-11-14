@@ -14,3 +14,6 @@
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="2">Humanoids</h2>
+
+### 2022  
+- ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, ACM SIGGRAPH 2022, [[PDF]](https://arxiv.org/abs/2205.01906)
