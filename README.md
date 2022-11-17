@@ -13,7 +13,7 @@
 <p align="center">
   <strong><a href="#5">Surveys</a></strong> •
   <strong><a href="#6">Tasks</a></strong> •
-  <strong><a href="#7">Virtual Environments</a></strong> •
+  <strong><a href="#7">Simulation Environments</a></strong> •
   <strong><a href="#8">Datasets & Benchmarks</a></strong>
 </p>
 
@@ -123,7 +123,7 @@
   
 </details>
 
-<h2 id="7">7. Virtual Environments</h2>
+<h2 id="7">7. Simulation Environments</h2>
 
 - [AI2-THOR](https://ai2thor.allenai.org/) (arxiv'17, [[PDF]](https://arxiv.org/pdf/1712.05474.pdf))    
 
