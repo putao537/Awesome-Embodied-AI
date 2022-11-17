@@ -16,7 +16,7 @@
 <h2 id="2">Humanoids</h2>
 
 ### 2022  
-- From motor control to team play in simulated humanoid football, Science Robotics 2022, [[PDF]](https://arxiv.org/abs/2105.12196)  
+- From Motor Control to Team Play in Simulated Humanoid Football, Science Robotics 2022, [[PDF]](https://arxiv.org/abs/2105.12196)  
 - ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, ACM SIGGRAPH 2022, [[PDF]](https://arxiv.org/abs/2205.01906)
 
 
