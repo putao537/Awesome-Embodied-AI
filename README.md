@@ -142,10 +142,10 @@
 - [CHALET](https://github.com/lil-lab/chalet) (arxiv'18, [[PDF]](https://arxiv.org/pdf/1801.07357.pdf))      
 
 - [ALFWorld](https://alfworld.github.io/) (ICLR'21, [[PDF]]([https://arxiv.org/pdf/1709.06158.pdf](https://arxiv.org/pdf/2010.03768.pdf)))    
+
+- [RCareWorld](https://emprise.cs.cornell.edu/rcareworld/) (IROS 2022, [[PDF]](https://arxiv.org/abs/2210.10821))
   
 <h2 id="8">8. Datasets & Benchmarks</h2>
 
-- ### RCareWorld (IROS 2022, [[PDF]](https://arxiv.org/abs/2210.10821))
-  - A Human-centric Simulation World for Caregiving Robots
 
 </details>
