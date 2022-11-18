@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="#5">Surveys</a></strong> •
+  <strong><a href="#5">Technical Reports</a></strong> •
   <strong><a href="#6">Tasks</a></strong> •
   <strong><a href="#7">Simulation Environments</a></strong> •
   <strong><a href="#8">Datasets & Benchmarks</a></strong>
@@ -20,12 +20,13 @@
 
 <h2 id="0">0. Papers</h2>
 
-**By Date:** [[2022]](Papers/2022.md) [[2021]](Papers/2021.md) [[2020]](Papers/2020.md) [[2019]](Papers/2019.md) [[2018]](Papers/2018.md)    
 **By Tasks:** [[Locomotion]](Papers/locomotion.md) [[Visual Navigation]](Papers/visual_navigation.md) [[Object Manipulation]](Papers/object_manipulation.md) [[Others]](Papers/others.md)  
 
 #### Survey
 - A Survey of Embodied AI: From Simulators to Research Tasks, T-ETC 2022, [[PDF]](https://arxiv.org/abs/2103.04918)
+- A Survey of Visual Navigation: From Geometry to Embodied AI, Eng. Appl. Artif 2022, [[PDF]](https://www.sciencedirect.com/science/article/pii/S095219762200207X)
 - Deep learning for embodied vision navigation: A survey, arxiv 2021, [[PDF]](https://arxiv.org/abs/2108.04097)
+
 
 <h2 id="1">1. Tutorials</h2>
 
@@ -67,14 +68,10 @@
 - [Robotics and Embodied AI Lab](https://montrealrobotics.ca/), Université de Montréal
 
 
-<h2 id="5">5. Surveys</h2>
+<h2 id="5">5. Technical Reports</h2>
 
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **T-ETCI'22** | A Survey of Embodied AI: From Simulators to Research Tasks | [PDF](https://arxiv.org/abs/2103.04918) |
-| **Eng. Appl. Artif'22** | A Survey of Visual Navigation: From Geometry to Embodied AI | [PDF](https://www.sciencedirect.com/science/article/pii/S095219762200207X) |
-| arxiv'21 | Deep Learning for Embodied Vision Navigation: A Survey | [PDF](https://arxiv.org/pdf/2108.04097.pdf) |
-
+- A Path Towards Autonomous Machine Intelligence, Yann LeCun, [[PDF]](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+- Toward Next-Generation Artificial Intelligence:Catalyzing the NeuroAI Revolution, Zador et al., [[PDF]](https://arxiv.org/abs/2210.08340)
 
 <h2 id="6">6. Tasks</h2>
 
