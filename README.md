@@ -66,6 +66,7 @@
 - [Robotic Systems Lab](https://rsl.ethz.ch/), ETH Zurich
 - [Stanford Vision And Learning Lab](https://svl.stanford.edu/), Standford
 - [Robotics and Embodied AI Lab](https://montrealrobotics.ca/), Université de Montréal
+- [V3A Lab](https://v3alab.github.io/), Australian Institute for Machine Learning
 
 
 <h2 id="5">5. Technical Reports</h2>
