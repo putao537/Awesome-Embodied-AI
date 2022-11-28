@@ -50,7 +50,8 @@
 - IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR, 2022, [[PDF]](https://arxiv.org/abs/2112.05298)  
 - BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment, CoRL, 2022, [[PDF]](https://arxiv.org/abs/2207.08192)
 
-
+### 2020
+- Learning Affordance Landscapes for Interaction Exploration in 3D Environments, NeurIPS, 2020, [[PDF]](https://arxiv.org/abs/2008.09241)  
 
 Other
 
