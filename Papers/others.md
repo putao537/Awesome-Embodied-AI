@@ -37,7 +37,7 @@
 ### 2021
 - Visual Room Rearrangement, CVPR 2021, [[PDF]](https://arxiv.org/pdf/2103.16544.pdf)  
 - Object Rearrangement Using Learned Implicit Collision Functions, ICRA 2021, [[PDF]](https://arxiv.org/abs/2011.10726)  
-- NeRP: Neural Rearrangement Planning for Unknown Objects, arxiv, 2021, [[PDF]](https://arxiv.org/abs/2106.01352)
+- NeRP: Neural Rearrangement Planning for Unknown Objects, arxiv 2021, [[PDF]](https://arxiv.org/abs/2106.01352)
 
 ### 2020
 - Rearrangement: A Challenge for Embodied AI, arxiv 2020, [[PDF]](https://arxiv.org/abs/2011.01975)
@@ -47,15 +47,23 @@
 <h2 id="3">Object Functional Scene Graph Generation</h2>
 
 ### 2022
-- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR, 2022, [[PDF]](https://arxiv.org/abs/2112.05298)  
-- BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment, CoRL, 2022, [[PDF]](https://arxiv.org/abs/2207.08192)
+- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR 2022, [[PDF]](https://arxiv.org/abs/2112.05298)  
+- BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment, CoRL 2022, [[PDF]](https://arxiv.org/abs/2207.08192)
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="4">Object Affordance</h2>
 
+### 2022
+- AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions, ECCV 2022, [[PDF]](https://arxiv.org/abs/2112.00246)  
+- Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction, CVPR 2022, [[PDF]](https://arxiv.org/abs/2205.02834)  
+- O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning, CoRL 2022, [[PDF]](https://arxiv.org/abs/2106.15087)  
+
+### 2021
+- Shaping embodied agent behavior with activity-context priors from egocentric video, NeurlPS 2021, [[PDF]](https://arxiv.org/abs/2110.07692)  
+- Deep Affordance Foresight: Planning Through What Can Be Done in the Future, ICRA 2021, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9560841)   
 
 ### 2020
-- Learning Affordance Landscapes for Interaction Exploration in 3D Environments, NeurIPS, 2020, [[PDF]](https://arxiv.org/abs/2008.09241)  
+- Learning Affordance Landscapes for Interaction Exploration in 3D Environments, NeurIPS 2020, [[PDF]](https://arxiv.org/abs/2008.09241)  
 
 Other
 
