@@ -1,6 +1,6 @@
 **SubTasks:**   
 <strong><a href="#0">[Embodied Learning]</a></strong>  
-<strong><a href="#1">[Embodied Question Answering]</a></strong> <strong><a href="#2">[Rerangement]</a></strong> <strong><a href="#3">[Object Relation Learning]</a></strong> 
+<strong><a href="#1">[Embodied Question Answering]</a></strong> <strong><a href="#2">[Rerangement]</a></strong> <strong><a href="#3">[Object Functional Scene Graph Generation]</a></strong> 
 
 
 
