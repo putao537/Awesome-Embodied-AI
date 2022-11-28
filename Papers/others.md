@@ -1,6 +1,6 @@
 **SubTasks:**   
 <strong><a href="#0">[Embodied Learning]</a></strong>  
-<strong><a href="#1">[Embodied Question Answering]</a></strong> <strong><a href="#2">[Rerangement]</a></strong> <strong><a href="#3">[Object Functional Scene Graph Generation]</a></strong> 
+<strong><a href="#1">[Embodied Question Answering]</a></strong> <strong><a href="#2">[Rerangement]</a></strong> <strong><a href="#3">[Object Functional Scene Graph Generation]</a></strong> <strong><a href="#4">[Object Functional Scene Graph 
 
 
 
@@ -44,11 +44,15 @@
 
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
-<h2 id="2">Object Functional Scene Graph Generation</h2>
+<h2 id="3">Object Functional Scene Graph Generation</h2>
 
 ### 2022
 - IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR, 2022, [[PDF]](https://arxiv.org/abs/2112.05298)  
 - BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment, CoRL, 2022, [[PDF]](https://arxiv.org/abs/2207.08192)
+
+[//]: # (---------------------------------Comment for segmentation---------------------------------)
+<h2 id="4">Object Affordance</h2>
+
 
 ### 2020
 - Learning Affordance Landscapes for Interaction Exploration in 3D Environments, NeurIPS, 2020, [[PDF]](https://arxiv.org/abs/2008.09241)  
