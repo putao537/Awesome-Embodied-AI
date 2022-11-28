@@ -44,7 +44,7 @@
 
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
-<h2 id="2">Object Relation Learning</h2>
+<h2 id="2">Object Functional Scene Graph Generation</h2>
 
 ### 2022
 - IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR, 2022, [[PDF]](https://arxiv.org/abs/2112.05298)  
