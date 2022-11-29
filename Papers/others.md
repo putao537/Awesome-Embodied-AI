@@ -1,6 +1,6 @@
 **SubTasks:**   
 <strong><a href="#0">[Embodied Learning]</a></strong>  
-<strong><a href="#1">[Embodied Question Answering]</a></strong> <strong><a href="#2">[Rerangement]</a></strong> <strong><a href="#3">[Object Functional Scene Graph Generation]</a></strong> <strong><a href="#3">[Object Affordance]</a></strong>
+<strong><a href="#1">[Embodied Question Answering]</a></strong> <strong><a href="#2">[Rerangement]</a></strong> <strong><a href="#3">[Object Functional Relation Detection]</a></strong> <strong><a href="#3">[Object Affordance]</a></strong>
 
 
 
@@ -44,7 +44,7 @@
 
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
-<h2 id="3">Object Functional Scene Graph Generation</h2>
+<h2 id="3">Object Functional Relation Detection</h2>
 
 ### 2022
 - BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment, CoRL 2022, [[PDF]](https://arxiv.org/abs/2207.08192)
