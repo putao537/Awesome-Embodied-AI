@@ -50,7 +50,7 @@
 - BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment, CoRL 2022, [[PDF]](https://arxiv.org/abs/2207.08192)
 
 ### 2021
-- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR 2022, [[PDF]](https://arxiv.org/abs/2112.05298)  
+- IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes, ICLR 2021, [[PDF]](https://arxiv.org/abs/2112.05298)  
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="4">Object Affordance</h2>
