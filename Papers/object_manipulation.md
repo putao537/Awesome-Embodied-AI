@@ -1,5 +1,5 @@
 **Types:**   
-<strong><a href="#0">[Rigid-body Object Manipulation]</a></strong> <strong><a href="#1">[Articulated-body Object Manipulation]</a></strong> <strong><a href="#2">[Soft-body ObjectManipulation]</a></strong>   
+<strong><a href="#0">[Rigid-body Object Manipulation]</a></strong> <strong><a href="#1">[Articulated-body Object Manipulation]</a></strong> <strong><a href="#2">[Soft-body Object Manipulation]</a></strong>   
 <strong><a href="#3">[General Object Manipulation]</a></strong>
 
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
