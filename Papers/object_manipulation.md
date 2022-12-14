@@ -22,5 +22,8 @@
 [//]: # (---------------------------------Comment for segmentation---------------------------------)
 <h2 id="3">General Object Manipulation</h2>
 
+### 2022
+- RT-1: Robotics Transformer for Real-World Control at Scale, [[PDF]](https://robotics-transformer.github.io/assets/rt1.pdf)
+
 ### 2019
 - Trends and challenges in robot manipulation, Science 2019, [[PDF]](https://www.science.org/doi/full/10.1126/science.aat8414)  
